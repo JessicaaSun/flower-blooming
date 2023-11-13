@@ -5,7 +5,7 @@ Welcome to the Flower repository! This collection includes illustrative examples
 To obtain the source code, use the following Git command: 
 
 ```
-$ git clone https://github.com/JessicaaSun/Flower.git
+$ git clone https://github.com/JessicaaSun/flower-blooming.git
 ```
 
 ### Installing Ruby 
