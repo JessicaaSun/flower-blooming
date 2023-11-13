@@ -10,6 +10,9 @@ $ git clone https://github.com/JessicaaSun/Flower.git
 
 ### Installing Ruby 
 Make sure to install Ruby, which is required for processing SCSS.
+```
+sudo npm install -g sass    
+```
 
 ### Linking SCSS File with HTML
 Connect the SCSS file with HTML using the following command:
